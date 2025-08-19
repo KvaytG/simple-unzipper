@@ -29,6 +29,11 @@ java -jar simple-unzipper.jar <file.zip>
 ```
 Optional: to use a specific version, tag a release and replace `-SNAPSHOT` with the tag name.
 
+## ⚠️ Notice
+This project is **archived** and is no longer maintained.  
+No new features or bug fixes will be implemented.  
+Use at your own risk.
+
 ## 📜 License
 Licensed under the **[MIT](LICENSE.txt)** license.
 
